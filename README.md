@@ -7,15 +7,15 @@ This program will represent an actual classroom, with ways(methods) od adding st
 
 -Classroom
 
-  The classrom itself with seats and students
+  - The classrom itself with seats and students
 
 -Seat
 
-  A seat in the classroom
+  - A seat in the classroom
 
 -Student
 
-  A student assign to the classroom and sitting in a seat
+  - A student assign to the classroom and sitting in a seat
 
 # Folder Structure
 

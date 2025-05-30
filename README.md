@@ -1,8 +1,9 @@
-## Information about the program:
+# Information about the program:
 
+## Decription
 This program will represent an actual classroom, with ways(methods) od adding students and assign seat.
 
-# Classes
+## Classes
 
 -Classroom
   The classrom itself with seats and students
@@ -11,9 +12,9 @@ This program will represent an actual classroom, with ways(methods) od adding st
   A seat in the classroom
 
 - Student
-  -A student assign to the classroom and sitting in a seat
+  A student assign to the classroom and sitting in a seat
 
-## Folder Structure
+# Folder Structure
 
 The workspace contains two folders by default, where:
 

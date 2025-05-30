@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.zip.Adler32;
 
 /**
  * Represent a classroom with and stdents

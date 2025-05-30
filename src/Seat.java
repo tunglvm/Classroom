@@ -16,7 +16,7 @@ public class Seat {
 
     //student assign to this seat
     //otherwise NULL
-    Student studentInSeat;
+    Student studentInSeat; //this gonna be null if it's not set with student
 
     //constructor
     /**

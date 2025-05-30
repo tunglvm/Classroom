@@ -90,13 +90,16 @@ public class Classroom {
      * print all student 
      */
     public void printAllStudent(){
-        System.out.println("Students in class");
+        System.out.println("Students in class:");
         
         for (Student student : this.students){  
             System.out.println(student);  //this will call the toString method in the Student class
         }
     }
 
+    /**
+     * this will return seat and student info
+     */
     public String toString(){
         String s = "\n";
 
